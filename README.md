@@ -3,6 +3,3 @@ Chatgpt
 
 https://mihir-journey-staging.b12sites.com/index#home
 
-
-
-![3](https://github.com/user-attachments/assets/5946a93d-c995-469c-8b4d-cb3746a42ce0)
